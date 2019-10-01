@@ -7,17 +7,17 @@ This package contains functional boundary & parcellation maps of the cerebral co
 For additional information, please contact the corresponding author: Dr. Gagan S. Wig (gwig@utdallas.edu)
 
 __Age cohorts:__
-* Younger adults (YA) 		20–34 y
-* Middle early adults (ME) 	35–49 y
-* Middle late adults (ML) 	50–64 y
-* Older early adults (OE) 	65–79 y
-* Older late adults (OL) 		80–93 y
+* Younger adults (YA)      20–34 y
+* Middle early adults (ME) 35–49 y
+* Middle late adults (ML)  50–64 y
+* Older early adults (OE)  65–79 y
+* Older late adults (OL)   80–93 y
 
 __Files:__
-* ./maps/parcel_community.xlsx 						-	community assignments of the parcels
-* ./maps/surface_map/\<AgeCohort>_boundary_32k_fsLR_<hemisphere>.func.gii\	-	functional boundary map in 32k fs_LR surface atlas
-* ./maps/surface_map/\<AgeCohort>_parcel_32k_fsLR_<hemisphere>.func.gii\	-	functional parcellation map in 32k fs_LR surface atlas
-* ./maps/volume_map/\<AgeCohort>_parcel_MNI_<voxelsize>mm.nii.gz\		-	functional parcellation map in MNI volume space
+* ./maps/parcel_community.xlsx - community assignments of the parcels
+* ./maps/surface_map/\<AgeCohort>\_boundary\_32k\_fsLR\_\<hemisphere>.func.gii  - functional boundary map in 32k fs\_LR surface atlas
+* ./maps/surface_map/\<AgeCohort>\_parcel\_32k\_fsLR\_\<hemisphere>.func.gii    - functional parcellation map in 32k fs\_LR surface atlas
+* ./maps/volume_map/\<AgeCohort>\_parcel\_MNI\_\<voxelsize>mm.nii.gz            - functional parcellation map in MNI volume space
 
 __Reference:__
-Han, L., Savalia, N. K., Chan, M. Y., Agres, P. F., Nair, A. S., & Wig, G. S. (2018). Functional Parcellation of the Cerebral Cortex Across the Human Adult Lifespan. Cerebral Cortex, 28(12), 4403–4423. https://doi.org/10.1093/cercor/bhy218
+* Han, L., Savalia, N. K., Chan, M. Y., Agres, P. F., Nair, A. S., & Wig, G. S. (2018). Functional Parcellation of the Cerebral Cortex Across the Human Adult Lifespan. Cerebral Cortex, 28(12), 4403–4423. https://doi.org/10.1093/cercor/bhy218
